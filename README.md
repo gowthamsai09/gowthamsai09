@@ -1,20 +1,77 @@
-# About Me:
-Hi, I'm Gowtham   <br><br>AI Software Engineer with 2+ years of experience building enterprise-grade Generative AI systems using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). I specialize in designing scalable AI pipelines, knowledge retrieval platforms, and intelligent automation systems that deliver measurable business impact.<br><br>What I Do:<br>- Build end-to-end RAG systems with semantic search, metadata filtering, and vector databases<br>- Develop agentic AI workflows for dynamic decision-making and intelligent interactions<br>- Design scalable backend systems using Python (FastAPI), APIs, and cloud platforms<br>- Automate enterprise workflows by integrating AI with real-world systems (SAP, REST APIs)<br><br>Key Impact:<br>- Built an enterprise AI knowledge platform consolidating millions of documents → reduced L2 support resolution time by **75–80%** :contentReference[oaicite:0]{index=0}  <br>- Developed automation pipelines replacing manual ERP processes → saved **150+ hours/month** :contentReference[oaicite:1]{index=1}  <br>- Designed document-aware AI systems with structured reasoning (LangGraph) and contextual retrieval  <br><br>Technical Focus:<br>Python | RAG Systems | LLM Applications | LangChain | LangGraph | Vector Databases | FastAPI | AWS (S3, Bedrock) | Docker | CI/CD | Github Actions<br><br>Currently Exploring:<br>- Advanced agentic AI systems and reasoning workflows  <br>- Scalable knowledge architectures and evaluation of LLM outputs  <br>- AI-driven analytics (stock market pattern detection)<br><br>Open to international opportunities and relocation.<br><br>I enjoy turning complex, unstructured data into intelligent, production-ready systems.
+# Hi, I'm Gowtham 👋
 
+**AI/LLM Engineer** with nearly 3 years at Bosch building production RAG and multi-agent systems on GCP and Azure. I work on the parts that come after the demo: keeping LLM systems accurate, affordable and secure once real users depend on them.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-sai-yadlapalli-17b588208/) 
+📍 Bengaluru, India
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=gowthamsai09&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsai09&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-sai-yadlapalli-17b588208/)
+[![PyPI](https://img.shields.io/badge/PyPI-SHAMA-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/shama/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1F4E8C?style=for-the-badge)](https://gowtham-sai-ai-yx40qzr.gamma.site/)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamsai.yadlapalli@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gowthamsai09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ What I do
+
+- Build **agentic RAG and multi-agent systems** (LangGraph, tool calling, ReAct) that run in production
+- Design **retrieval**: hybrid search (dense + BM25), re-ranking, metadata filtering, semantic caching, knowledge graphs
+- Set up **LLM evaluation and guardrails** (RAGAS, LLM-as-judge, hallucination detection, Responsible AI) and feed failures back into retraining
+- Secure enterprise AI with **Zero Trust, RBAC and prompt-injection controls**
+- Ship **Python/FastAPI backends** with CI/CD, Docker and Kubernetes
+
+## 🚀 Open source and projects
+
+**[SHAMA: Self-Healing Agent Memory Architecture](https://github.com/gowthamsai09/shama)** · [PyPI](https://pypi.org/project/shama/) · 200+ monthly downloads
+An open-source memory layer that gives LLM agents consistent memory across long sessions. Dual-store design (episodic + semantic) on Qdrant, Neo4j and Redis, with half-life confidence decay and an LLM-as-judge that catches contradictions.
+
+**[Document-Aware Knowledge Assistant](https://github.com/gowthamsai09/Chatbot_Agent)** · [Live demo](https://personalized-knowledge-assistant.onrender.com/)
+Production RAG app over documents, text and URLs: ReAct multi-agent workflow on LangGraph, Qdrant Cloud, hybrid search and re-ranking. 1.0 answer relevancy and 0.85 faithfulness on RAGAS, FastAPI backend at ≤300 ms p95 latency.
+
+## 🧰 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6C4BFF?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+**Also:** Celery · REST APIs · Gemini · OpenAI / Azure OpenAI · Claude · Mistral · Vertex AI Agent Search · Azure AI Search · Weights & Biases · SAP BTP · fine-tuning (LoRA/PEFT)
+
+## 🎓 Certifications
+
+- [AWS Certified Generative AI Developer – Professional](https://www.credly.com/badges/fe8ed7dd-2dd2-4ceb-b302-15b2fc7c2370/public_url)
+- [Google Generative AI Leader](https://www.credly.com/badges/135cbd7c-1c3f-4df2-869a-1a53ba33a38d/public_url)
+- [AWS Generative AI Technical](https://www.credly.com/badges/b6cbc393-c923-4a2f-8e82-a1f077ed31c1/public_url)
+- [AWS Agentic AI Essentials](https://www.credly.com/badges/47d5ec69-03f2-4475-8ba2-1346f6f3e250/public_url)
+
+## 🔭 Currently exploring
+
+- Advanced agentic systems and reasoning workflows
+- Scalable knowledge architectures and LLM output evaluation
+
+## 📊 GitHub stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=gowthamsai09&theme=cobalt&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsai09&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+*I enjoy turning complex, unstructured data into reliable, production-ready AI systems.*
