@@ -67,11 +67,6 @@ Production RAG app over documents, text and URLs: ReAct multi-agent workflow on 
 - Advanced agentic systems and reasoning workflows
 - Scalable knowledge architectures and LLM output evaluation
 
-## 📊 GitHub stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=gowthamsai09&theme=cobalt&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsai09&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 *I enjoy turning complex, unstructured data into reliable, production-ready AI systems.*
